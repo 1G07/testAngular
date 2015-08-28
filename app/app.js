@@ -3,6 +3,11 @@
  */
 console.log("Hello world!");
 var x={
+
+    decrement:function(i){
+        i--;
+    },
+
     add:function(a,b){
         return a+b;
     }
