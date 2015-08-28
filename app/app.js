@@ -4,7 +4,7 @@
 console.log("Hello world!");
 var x={
     decrement:function(i){
-        i--;
+        i++;
     },
     
     add:function(a,b){
@@ -12,7 +12,6 @@ var x={
     }
 
 };
-console.log(NOPE);
 
 console.log('Dusanov hello world!');
 
