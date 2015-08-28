@@ -1,6 +1,7 @@
 /**
  * Created by igor.pesic on 28.8.2015.
  */
+<<<<<<< HEAD
 console.log("Hello world!");
 var x={
     add:function(a,b){
@@ -8,6 +9,8 @@ var x={
     }
 
 };
+=======
 console.log(NOPE);
 
 console.log('Dusanov hello world!');
+>>>>>>> 95562a3cf9875dc9313d6b81cb1d89d86e25768a
