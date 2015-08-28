@@ -6,8 +6,7 @@ var x={
     decrement:function(i){
         i++;
     },
-    
-    add:function(a,b){
+   add:function(a,b){
         return a+b;
     }
 
