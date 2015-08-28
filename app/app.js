@@ -3,15 +3,10 @@
  */
 console.log("Hello world!");
 var x={
-<<<<<<< HEAD
-
     decrement:function(i){
         i--;
     },
-
-=======
-	//IGORE NE VALJA TI FUNKCIJA
->>>>>>> be6d53f5f30d21c9c42e9125ae80053aca7be049
+    
     add:function(a,b){
         return a+b;
     }
