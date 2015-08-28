@@ -3,14 +3,11 @@
  */
 console.log("Hello world!");
 var x={
-// komentar
 
-    decrement:function(i){
+  decrement:function(i){
         i--;
     },
-
-
-    add:function(a,b){
+   add:function(a,b){
         return a+b;
     }
 
